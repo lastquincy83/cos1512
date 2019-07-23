@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553945405 source:c:\users\damian\documents\homework\assignmenttwo\62951718-questionone.cpp
+	<iostream>
+
+1553947263 source:c:\users\damian\documents\homework\assignmenttwo\main.cpp
+	"62951718-questionOne.h"
+	<iostream>
+
+1553945610 c:\users\damian\documents\homework\assignmenttwo\62951718-questionone.h
+

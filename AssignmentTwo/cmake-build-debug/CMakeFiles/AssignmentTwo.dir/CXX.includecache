@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damian/Documents/assignment/AssignmentTwo/62951718-questionFive.h
+string
+-
+iostream
+-
+fstream
+-
+
+/home/damian/Documents/assignment/AssignmentTwo/main.cpp
+iostream
+-
+62951718-questionFive.h
+/home/damian/Documents/assignment/AssignmentTwo/62951718-questionFive.h
+fstream
+-
+stdlib.h
+-
+string
+-
+
